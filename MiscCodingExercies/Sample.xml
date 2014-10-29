@@ -1,0 +1,16 @@
+<PersonalInfo version="1.0" date="now">
+  <name>
+    <first>
+      Karteek
+    </first>
+    <last>
+      Mekala
+    </last>
+  </name>
+  <age>
+    22
+  </age>
+  <email>
+    Karteek.Kumar.M@gmail.com
+  </email>
+</PersonalInfo>
